@@ -2,8 +2,8 @@
 //
 //  Description: This file contains the System Configurations
 //
-//  Jim Carlson
-//  Jan 2016
+//  Sheshanth V
+//  Sep 2024
 //  Built with IAR Embedded Workbench Version: V7.3.1.3987 (6.40.1)
 //------------------------------------------------------------------------------
 
