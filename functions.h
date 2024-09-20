@@ -2,8 +2,8 @@
 //
 //  Description: This file contains the Function prototypes
 //
-//  Jim Carlson
-//  Aug 2013
+//  Sheshanth V
+//  Sep 2024
 //  Built with IAR Embedded Workbench Version: V4.10A/W32 (5.40.1)
 //******************************************************************************
 // Functions
